@@ -19,37 +19,3 @@ public class GpsTrackerApplication {
 		SpringApplication.run(GpsTrackerApplication.class, args);
 	}
 }
-
-
-// @Controller
-// class WebController {
-//     @GetMapping("/")
-//     public String index() {
-//         return "index";
-//     }
-// }
-
-// @EnableWebSocketMessageBroker
-// class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
-//     @Override
-//     public void registerStompEndpoints(StompEndpointRegistry registry) {
-//         registry.addEndpoint("/ws").setAllowedOrigins("*").withSockJS();
-//     }
-// }
-
-// class Location {
-//     private String id;
-//     private double latitude;
-//     private double longitude;
-    
-//     // Constructors, Getters, Setters
-// }
-
-// @Controller
-// class LocationController {
-//     @MessageMapping("/send-location")
-//     @SendTo("/topic/get-location")
-//     public Location sendLocation(Location location) {
-//         return location;
-//     }
-// }
