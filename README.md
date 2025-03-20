@@ -1,5 +1,5 @@
 ## Description
-GPS Tracker is a real-time vehicle tracking system built using Spring Boot and WebSockets. This application allows users to track the location of a vehicle in real time with high efficiency and minimal latency.
+GPS Tracker is a real-time vehicle tracking system built using Spring Boot and WebSockets. This application allows users to track the location of a device (e.g. mobile, vehicle, etc.) in real time with high efficiency and minimal latency.
 ## Features
 - Real-time GPS tracking using WebSockets
 
