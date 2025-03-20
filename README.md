@@ -65,6 +65,12 @@ If using Docker, build and run the container:
 Method: GET  
 Endpoint: /  
 Description: Get real-time location updates
+Complete url: localhost:9090 (For local network)
+
+## Run remotely
+Configure this project on your virtual machine and just use the url - https://vm_ip:9090 
+Do remember to enable expose the port 9090 or whatever you want to use
+
 ## Contributing
 Feel free to submit issues and pull requests to improve the project
 ## 🔗 Links
