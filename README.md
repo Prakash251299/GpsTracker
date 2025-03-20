@@ -45,7 +45,7 @@ GPS Tracker is a real-time vehicle tracking system built using Spring Boot and W
 ## Installation
 Clone the repository:
 
-`git clone https://github.com/your-username/gps_tracker.git`  
+`git clone https://github.com/Prakash251299/gps_tracker.git`  
 `cd gps_tracker`
 
 Build the project using Maven:
